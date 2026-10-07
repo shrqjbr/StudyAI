@@ -2,6 +2,9 @@
 
 StudyAI is an AI-powered personalized study assistant built with Python, Streamlit, and Google Gemini.
 
+## 🌐 Live application website
+https://studyai-edu.streamlit.app/
+
 ## ✨ What it does
 
 StudyAI turns your own study notes into personalized quizzes.
