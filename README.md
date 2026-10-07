@@ -27,7 +27,7 @@ StudyAI turns your own study notes into personalized quizzes.
 
 I wanted to explore how artificial intelligence could be used to create a more personalized learning experience.
 
-I started with very little programming experience and built StudyAI while learning Python, APIs, JSON, GitHub, and Streamlit.
+I started with very little programming experience and built StudyAI while learning Python, APIs, GitHub, and Streamlit.
 
 ## 🚀 How it works
 
